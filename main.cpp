@@ -7,5 +7,3 @@ int main() {
   string name = "Trist";
   cout << name << endl;
 } 
-
-
